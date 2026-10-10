@@ -1,4 +1,4 @@
-[readme_md.md](https://github.com/user-attachments/files/33283716/readme_md.md)
+
 # 🤖 ROBY - Simple Version
 
 **ROBY** is a simple, expressive desktop robot companion built with an **ESP32** and an **OLED display** over I2C. Designed as a hands-on project to learn microcontrollers, display protocols, sound synthesis, and state handling, ROBY responds to physical button interactions with facial expressions and audio cues—and even features a built-in **25-minute Pomodoro timer**!
